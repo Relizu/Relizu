@@ -2,11 +2,11 @@
 
 ## I'm Relizu!
 (The name means nothing btw 😅)
-
+![CAT](./0310.gif)
 ## I LOVE CATSS
 ### also love programming and stuff.
 # AND ART
-
+![CAT](./download.gif)
 ## You now know what you need to know about me ✨
 # Currently Studying on stuff
 - ML :O
