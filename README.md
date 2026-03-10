@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hello there 👋
 
-<!--
-**Relizu/Relizu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm Relizu!
+(The name means nothing btw 😅)
 
-Here are some ideas to get you started:
+## I LOVE CATSS
+### also love programming and stuff.
+# AND ART
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## You now know what you need to know about me ✨
+# Currently Studying on stuff
+- ML :O
+- The one and only German Language
+- Anime language aka Japanese
+
+# What i know 🤔
+- well lots of things XD
+- Python | Java | C#? come on man you can't tell me languages aren't similar :/
+- I have touched Pyside6 | Android dev > android studio | game dev > monogame | other
+- I like to randomly learn some programming tech just for 1 project and leave it later so It's complicated for me
+
+# Sending LOVE
