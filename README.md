@@ -8,10 +8,10 @@
 # AND ART
 ![CAT](./download.gif)
 ## You now know what you need to know about me ✨
-# Currently Studying on stuff
+# Currently Studying
 - ML :O
 - The one and only German Language
-- Anime language aka Japanese
+- Rust (trying to optimize my code as much as i can)
 
 # What i know 🤔
 - well lots of things XD
