@@ -9,9 +9,8 @@
 ![CAT](./download.gif)
 ## You now know what you need to know about me ✨
 # Currently Studying
-- ML :O
+- techniques and tricks on how to do things.
 - The one and only German Language
-- Rust (trying to optimize my code as much as i can)
 
 # What i know 🤔
 - well lots of things XD
